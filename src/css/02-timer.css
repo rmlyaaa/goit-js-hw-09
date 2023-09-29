@@ -1,0 +1,39 @@
+.div {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 240px;
+    font-size: 24px;
+}
+
+button {
+    margin: 0;
+    width: 74px;
+    height: 40px;
+    border: solid 1px #5555;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.timer {
+    margin-left: 30px;
+    display: flex;
+    gap: 14px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.value {
+    font-size: 34px;
+}
+
+.label {
+    font-size: 18px;
+}
